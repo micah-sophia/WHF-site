@@ -1,5 +1,5 @@
 .topnav {
-  background-color: #e6f2ff;
+  background-color: black;
   overflow: hidden;
 }
 .topnav a{
@@ -9,6 +9,7 @@
   padding: 14px 16px;
   font-size: 45px;
   text-decoration: none;
+  font-family: Georgia;
 }
 .topnav a:hover{
   background-color: #cce0ff
@@ -16,6 +17,4 @@
 .topnav a.active{
   background-color: #cccccc;
   color: white;
-
-
 }
